@@ -1,10 +1,7 @@
-sckit-learn
-pandas
-numpy
-joblib
-pickle
-streamlit
-annotated_text
-streamlit_extras
-plotly
-darts
+sckit-learn==1.3.2
+pandas==2.1.1
+joblib==1.3.2
+cloudpickle==3.0.0
+streamlit==1.29.0
+streamlit_extras==0.3.5
+darts==0.27.0
