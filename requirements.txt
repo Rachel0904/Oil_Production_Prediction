@@ -1,0 +1,10 @@
+sckit-learn
+pandas
+numpy
+joblib
+pickle
+streamlit
+annotated_text
+streamlit_extras
+plotly
+darts
