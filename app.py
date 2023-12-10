@@ -20,7 +20,7 @@ def main():
 
         if forecast_selected == "Short-Term Forecast":
             # prediction_class = short_term_predict()
-            prediction_class = 0
+            prediction_class = 1
 
             if prediction_class == 0:
                 st.metric(label="OIL PRODUCTION DIRECTION", value="DOWN", delta="-0")
