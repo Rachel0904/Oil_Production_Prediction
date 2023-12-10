@@ -1,6 +1,5 @@
 feedparser==6.0.10
 snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git@0d824ab77334ed4ab6250e5e491171afeccfb298
-statsmodels==0.13.2
 streamlit==1.23.1
 streamlit-camera-input-live==0.2.0
 streamlit-card==0.0.5
@@ -22,4 +21,5 @@ st-annotated-text==4.0.0
 streamlit-extras==0.2.7
 fsspec==2022.7.1
 scikit-learn==1.0.2
-darts
+statsmodels==0.14.0
+darts==0.27.0
